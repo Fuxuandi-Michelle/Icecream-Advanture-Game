@@ -1,0 +1,25 @@
+User Manual of Ice Cream Adventure
+
+This game is a first person shooting (FPS) game. The game background is, during the Christmas Eve, a number of monsters invaded into Ice Cream’s house, and the Ice Cream is going to defend with them. The Ice Cream is the main character of this game, and the players are going to look through the eyes of Ice Cream. 
+
+The game is designed into four levels, which are shooting small monsters, fighting with huge monsters, shooting in restricted areas, and endless mode respectively. The scenes for each levels have varies characteristic while with the same Christmas theme. This game has three kinds of monsters, which are ghosts, mini dragons, and orcs.
+The user interface (UI) this game is embedded into the game scenes, which means that the player don’t need to click anything while playing the game, instead, the player only need to walk through the items to select. This special design of UI enables the player have better game experience. 
+
+The game have a special attribute plus system and a lucky draw system, which enables dynamic attribute increment of the character. The character has three attributes, which are speed, power, and health.
+
+Hardware Requirement
+Desktop:
+	OS: Windows XP SP2+.
+	Graphics card: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.
+	CPU: SSE2 instruction set support.
+
+How to Install
+	IceCreamAdventure.exe
+
+How to Play
+	Forwards: W
+	Backwards: S
+	Left: A
+	Right: D
+	Shoot: MOUSE RIGHT CLICK
+
