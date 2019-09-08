@@ -2,8 +2,8 @@
 
 A Game name Icecream Advanture 
 
-#Hardware Requirement
-## Desktop:
+## Hardware Requirements
+	Desktop:
 	OS: Windows XP SP2+.
 	Graphics card: DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.
 	CPU: SSE2 instruction set support.
